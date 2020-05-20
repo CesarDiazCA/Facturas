@@ -1,21 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package facturas;
-
-/**
- *
- * @author Cesar
- */
 public class Facturas {
+	public int num;
+	public float base;
+	public float tipoIva;
+	//public Estados estado;
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+
     }
-    
 }
